@@ -4017,10 +4017,12 @@ nav {
 
 nav.nav-extended {
   height: auto;
+  background-color: whitesmoke;
 }
 
 nav.nav-extended .nav-wrapper {
   height: auto;
+  background-color: whitesmoke;
 }
 
 nav a {
@@ -4062,7 +4064,6 @@ nav .button-collapse i {
 
 nav .brand-logo {
   position: absolute;
-  color: #fff;
   display: inline-block;
   font-size: 2.1rem;
   padding: 0;
