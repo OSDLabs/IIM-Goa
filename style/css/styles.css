@@ -53,22 +53,28 @@ body {
   margin-left: 20px;
   margin-right: 20px;
 }
-
 .border {
   border-color: black;
 }
-
 .test {
   border-bottom-color: black;
 }
-
 #logo {
   margin-left: 30px;
   margin-top: 20px;
   width: 175px;
   height: auto;
 }
-
 #title {
   margin-top: 20px;
+}
+#error-msg {
+  padding-top: 20%;
+  padding-bottom: 20%;
+  -ms-flex-line-pack: center;
+  align-content: center;
+}
+
+#events {
+  padding-bottom: 20%;
 }
