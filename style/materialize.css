@@ -4017,12 +4017,10 @@ nav {
 
 nav.nav-extended {
   height: auto;
-  background-color: whitesmoke;
 }
 
 nav.nav-extended .nav-wrapper {
   height: auto;
-  background-color: whitesmoke;
 }
 
 nav a {
@@ -4750,7 +4748,6 @@ small {
   overflow-y: hidden;
   height: 48px;
   width: 100%;
-  background-color: #fff;
   margin: 0 auto;
   white-space: nowrap;
 }
@@ -4811,7 +4808,7 @@ small {
 
 .tabs .tab a:hover, .tabs .tab a.active {
   background-color: transparent;
-  color: #ee6e73;
+  color: #757575;
 }
 
 .tabs .tab.disabled a,
@@ -6014,6 +6011,7 @@ textarea.materialize-textarea + label:after {
   font-size: 0.8rem;
   -webkit-transform: translateY(-140%);
           transform: translateY(-140%);
+  
 }
 
 .input-field .prefix {
@@ -6891,7 +6889,7 @@ input[type=range]:focus::-ms-fill-upper {
 .table-of-contents a.active {
   font-weight: 500;
   padding-left: 18px;
-  border-left: 2px solid #ea4a4f;
+  border-left: 2px solid #757575;
 }
 
 .side-nav {
@@ -7089,7 +7087,7 @@ input[type=range]:focus::-ms-fill-upper {
 
 .side-nav .collapsible-body > ul:not(.collapsible) > li.active,
 .side-nav.fixed .collapsible-body > ul:not(.collapsible) > li.active {
-  background-color: #ee6e73;
+  background-color: #757575;
 }
 
 .side-nav .collapsible-body > ul:not(.collapsible) > li.active a,
